@@ -1,0 +1,6 @@
+{
+  "name": "MathInspector: منصة مراجعة وألعاب الرياضيات (إعدادي وتأهيلي)",
+  "description": "منصة وألعاب تربوية تفاعلية لمراجعة وضبط مقرر مادة الرياضيات للسلكين الثانوي الإعدادي والثانوي التأهيلي حسب المستوى والشعبة والخيار (عربي / BIOF)، مصممة برؤية مفتش تربوي وأستاذ ممارس.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
